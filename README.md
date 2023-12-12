@@ -7,6 +7,9 @@ Names: Aman Patel, Matthew Merrick, Siddharth Chauhan, Kyle Yee & Peter Ossipov
 ## Project Description: 
 This application can allow users to convert any public playlist from one music platform to another. Our application will create a generic music playlist once the client converts a music playlist and will be granted the ability to open that specific generic playlist on any available music platform, such as Spotify or Apple Music. 
 
+## Documentation:
+[Allways Music Documentation.docx](https://github.com/kyleyee522/Capstone-Project/files/13642619/491FinalProposal.docx)
+
 ## DISCLAIMER:
 We have taken this website down because Firebase would start requiring payment if we exceeded the maximum read/write to their services!
 
