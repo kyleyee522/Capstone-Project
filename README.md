@@ -8,7 +8,7 @@ Names: Aman Patel, Matthew Merrick, Siddharth Chauhan, Kyle Yee & Peter Ossipov
 This application can allow users to convert any public playlist from one music platform to another. Our application will create a generic music playlist once the client converts a music playlist and will be granted the ability to open that specific generic playlist on any available music platform, such as Spotify or Apple Music. 
 
 ## DISCLAIMER:
-We have taken this website down because Firebase would end up charging us if we exceeded the maximum read/write to their services!
+We have taken this website down because Firebase would start requiring payment if we exceeded the maximum read/write to their services!
 
 ## Installation
 
